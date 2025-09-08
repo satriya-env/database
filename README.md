@@ -1,2 +1,2 @@
-#snityen
-# tes
+# Desclaimer
+Isinya cuma file selama pelajaran BD
